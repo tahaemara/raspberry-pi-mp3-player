@@ -8,7 +8,7 @@
 //
 //                              About This Project
 //   Implementation of MP3 player which reads tracks from usb flash drive.
-//   This program lets you store files on a USB flash drive, scan the contents of the drive for mp3 files, play individual files.
+//   This program lets you store files on a USB flash drive, scan the contents of the drive for mp3 files and play individual files.
 //
 //   Board Type : Raspberry Pi B rev2
 //   OS Type    : Raspbian
@@ -25,7 +25,10 @@
 //  to make program run on startup :
 //   type in terminal "sudo nano /etc/rc.local" 
 //   and add this line to this file " sudo /path/to/folder/mp3 & "  in my case " sudo /home/pi/mp3player/mp3 &"
-//   
+//
+//   Free for non commercial use as long as this entire copyright notice is included or not in source code 
+//    and any other documentation .
+//
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include"vector.h"
