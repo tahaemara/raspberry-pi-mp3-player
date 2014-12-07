@@ -49,6 +49,9 @@
    type in terminal "sudo nano /etc/rc.local" 
 
    and add this line to this file " sudo /path/to/folder/mp3 & "  in my case " sudo /home/pi/mp3player/mp3 &"
+   
+   
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 Free for non commercial use as long as this entire copyright notice is included or not in source code and any other documentation .
