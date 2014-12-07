@@ -1,22 +1,8 @@
 
 
-                                       Author: Taha Emara
+                                         About This Project
 
-
-
-   Youtube Cahnnel  :  http://www.youtube.com/user/omar0103637
-
-   Facebook Page    :  https://www.facebook.com/IcPublishes
-
-   Linkedin Profile :  http://eg.linkedin.com/pub/taha-emara/a4/1ab/524/
-
-   E-mail:          :  tahaemara.eng@gmail.com
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-                                      About This Project
-
-                      Implementation of MP3 player using Raspberry Pi
+                          Implementation of MP3 player using Raspberry Pi
 
    This program allows you playing mp3 files on a USB flash drive.
    
@@ -27,6 +13,8 @@
      * scan the contents of the drive for mp3 files
      
      * play individual files according to your control.
+     
+  See this video : http://youtu.be/bORdOhtCSYQ   
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -65,3 +53,17 @@
 
 Free for non commercial use as long as this entire copyright notice is included or not in source code and any other documentation .
    
+ ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+                                       Author: Taha Emara
+
+
+   Youtube Cahnnel  :  http://www.youtube.com/user/omar0103637
+
+   Facebook Page    :  https://www.facebook.com/IcPublishes
+
+   Linkedin Profile :  http://eg.linkedin.com/pub/taha-emara/a4/1ab/524/
+
+   E-mail:          :  tahaemara.eng@gmail.com
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
