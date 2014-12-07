@@ -16,7 +16,7 @@
 
                                       About This Project
 
-                   Implementation of MP3 player which reads tracks from usb flash drive.
+                      Implementation of MP3 player using Raspberry Pi
 
    This program allows you play mp3 files on a USB flash drive.
    
