@@ -18,7 +18,7 @@
 
                       Implementation of MP3 player using Raspberry Pi
 
-   This program allows you play mp3 files on a USB flash drive.
+   This program allows you playing mp3 files on a USB flash drive.
    
    steps of operations:
    
