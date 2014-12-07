@@ -12,16 +12,24 @@
 
    E-mail:          :  tahaemara.eng@gmail.com
 
-
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
                               About This Project
 
-   Implementation of MP3 player which reads tracks from usb flash drive.
+         Implementation of MP3 player which reads tracks from usb flash drive.
 
-   This program lets you store files on a USB flash drive, scan the contents of the drive for mp3 files and play
-individual files.
+   This program allows you play mp3 files on a USB flash drive.
+   
+   steps of operations:
+   
+     * check existence of usb flash drive.
+     
+     * scan the contents of the drive for mp3 files
+     
+     * play individual files according to your control.
 
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
    Board Type : Raspberry Pi B rev2
 
