@@ -16,6 +16,8 @@
      
   See this video : http://youtu.be/bORdOhtCSYQ   
 
+![Alt text](http://upload.qariya.info/up2014/113959/1BB48CE8DD13400EBFE0144A550B2F1F.png "Circuit Diagram")
+
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
