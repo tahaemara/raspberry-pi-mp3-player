@@ -63,12 +63,10 @@ This program is free software: you can redistribute it and/or modify it under th
                                        Author: Taha Emara
 
 
-   Youtube Cahnnel  :  http://www.youtube.com/user/omar0103637
-
-   Facebook Page    :  https://www.facebook.com/IcPublishes
+   Website          : http://www.emaraic.com
 
    Linkedin Profile :  http://eg.linkedin.com/pub/taha-emara/a4/1ab/524/
 
-   E-mail:          :  tahaemara.eng@gmail.com
+   E-mail:          :  taha@emaraic.com
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
